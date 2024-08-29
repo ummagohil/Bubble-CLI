@@ -1,4 +1,4 @@
-# Bubble CLI
+# 🧚‍♀️Bubble CLI
 
 A very small CLI script using go-lang and Bubble Tea from Charm CLI.
 
